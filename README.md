@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Repository](https://your-solution-url.com)
-- Live Site URL: [Deploy](https://your-live-site-url.com)
+- Solution URL: [Repository](https://github.com/AdhemarRomero/product-preview-card-component-main)
+- Live Site URL: [Deploy](https://adhemarromero.github.io/product-preview-card-component-main/)
 
 ## My process
 
